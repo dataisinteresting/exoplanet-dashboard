@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2aac5473-e42b-45fd-bebd-93ad2dc034d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/exoplanetDashboard.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exoplanetDashboard/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exoplanetDashboard/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exoplanetDashboard/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exoplanetDashboard/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exoplanetDashboard/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-    </list>
+    <list default="true" id="2aac5473-e42b-45fd-bebd-93ad2dc034d4" name="Changes" comment="Initialized project and defined model class 'Planets'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,11 +82,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703265362957</updated>
-      <workItem from="1703265379545" duration="9097000" />
+      <workItem from="1703265379545" duration="9417000" />
     </task>
+    <task id="LOCAL-00001" summary="Initialized project and defined model class 'Planets'">
+      <option name="closed" value="true" />
+      <created>1703277774569</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703277774569</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initialized project and defined model class 'Planets'">
+      <option name="closed" value="true" />
+      <created>1703277859316</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703277859316</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initialized project and defined model class 'Planets'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initialized project and defined model class 'Planets'" />
   </component>
 </project>
